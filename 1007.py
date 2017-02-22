@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # encoding: utf-8
-# generate the prime list within sqrt(n) (the maximin prime in the list < sqrt(n))
+# generate the prime list within sqrt(n) (the maximin prime in the list < sqrt(n) + 1)
 # generate the full prime list using `sieve of Eratosthenes`
 # count number of prime pairs
 import math
